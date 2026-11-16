@@ -1,0 +1,5 @@
+.venv/
+.idea/
+__pycache__/
+tasks.sqlite3
+tasks.sqlite3-*
